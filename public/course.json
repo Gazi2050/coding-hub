@@ -1,0 +1,74 @@
+[
+    {
+        "id": "C1",
+        "cover_img": "https://i.ibb.co/GMsDs1V/Rectangle-2.png",
+        "course_name": "Introduction to OOP Python",
+        "details": "Learn Object-Oriented Programming (OOP) in Python. Covering classes, objects, inheritance, and encapsulation. Ideal for beginners with basic Python knowledge.",
+        "price": 1900,
+        "credit": 5
+    },
+    {
+        "id": "C2",
+        "cover_img": "https://i.ibb.co/101nN5Q/Rectangle-2-1.png",
+        "course_name": "Database (MySQL)",
+        "details": "Explore the fundamentals of MySQL, a popular relational database management system. This course covers database design, querying, data manipulation, and basic administration.",
+        "price": 1900,
+        "credit": 5
+    },
+    {
+        "id": "C3",
+        "cover_img": "https://i.ibb.co/KL3vCrQ/Rectangle-2-2.png",
+        "course_name": "Introduction to C Programming",
+        "details": "Get started with the C programming language, a fundamental language for software development. This course covers syntax, data types, control structures, and basic programming concepts.",
+        "price": 1500,
+        "credit": 1
+    },
+    {
+        "id": "C4",
+        "cover_img": "https://i.ibb.co/VTLYyVZ/Rectangle-2-3.png",
+        "course_name": "Introduction to Algorithms",
+        "details": "Discover the world of algorithms in this foundational course. Learn about algorithm analysis, design techniques, and fundamental data structures. Gain problem-solving skills essential for programming and computer science.",
+        "price": 2500,
+        "credit": 2
+    },
+    {
+        "id": "C5",
+        "cover_img": "https://i.ibb.co/GvK1p3G/Rectangle-2-4.png",
+        "course_name": "Introduction to C++ for DSA",
+        "details": "This course serves as an entry point to C++ programming specifically tailored for Data Structures and Algorithms (DSA). Explore C++ syntax, data structures, and algorithms crucial for efficient problem-solving in computer science.",
+        "price": 1000,
+        "credit": 10
+    },
+    {
+        "id": "C6",
+        "cover_img": "https://i.ibb.co/1qcJtVr/Rectangle-2-5.png",
+        "course_name": "Software Engineering",
+        "details": "Delve into the essentials of software engineering, covering software development methodologies, requirements engineering, design principles, testing, and project management. Learn how to build robust, scalable software systems.",
+        "price": 2300,
+        "credit": 2
+    },
+    {
+        "id": "C7",
+        "cover_img": "https://i.ibb.co/hy8GRtR/Rectangle-2-6.png",
+        "course_name": "Problem-Solving Part",
+        "details": "This course focuses on honing your problem-solving skills. Explore various problem-solving techniques, algorithms, and strategies applicable in programming, mathematics, and everyday life.",
+        "price": 2300,
+        "credit": 2
+    },
+    {
+        "id": "C8",
+        "cover_img": "https://i.ibb.co/DrNWJmS/Rectangle-3.png",
+        "course_name": "Basic Data Structures",
+        "details": "This course introduces fundamental data structures such as arrays, linked lists, stacks, and queues. Learn how to implement, manipulate, and apply these structures to solve common programming problems.",
+        "price": 3500,
+        "credit": 5
+    },
+    {
+        "id": "C9",
+        "cover_img": "https://i.ibb.co/98DZ2SZ/Rectangle-3-1.png",
+        "course_name": "AWS, Cloud Computing",
+        "details": "Explore the world of cloud computing with a focus on Amazon Web Services (AWS). Learn cloud concepts, core AWS services, and best practices for deploying, managing, and securing applications in the cloud.",
+        "price": 3500,
+        "credit": 5
+    }
+]
